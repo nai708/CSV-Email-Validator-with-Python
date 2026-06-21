@@ -22,8 +22,11 @@ The goal of this project was to practice Python programming while applying quali
 FAIL: row 27 has an incorrect email format. Invalid email: exampleemail.com
 
 Validation Summary:
+
 Total number of invalid email addresses: 1
+
 Total number of valid email addresses: 999
+
 Total rows processed: 1000
 
 ## Technologies Used
